@@ -1,4 +1,4 @@
-# job_hunter-
+# Busca_Vagas_Linkedin
 # 🎯 Job Hunter — Guia de Instalação e Uso
 
 Automatize sua busca de vagas no **LinkedIn** e receba um relatório diário por email.
