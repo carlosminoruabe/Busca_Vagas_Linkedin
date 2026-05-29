@@ -36,9 +36,9 @@ CONFIG = {
     "experience_level": "senior",  # junior | mid-senior | senior
 
     # Gmail - configure no arquivo .env ou diretamente aqui
-    "gmail_sender": os.getenv("GMAIL_SENDER", "cmabe01@gmail.com"),
-    "gmail_password": os.getenv("GMAIL_APP_PASSWORD", "irichfcfolohawfp"),
-    "gmail_recipient": os.getenv("GMAIL_RECIPIENT", "cmabe01@gmail.com"),
+    "gmail_sender": os.getenv("GMAIL_SENDER", "c****1@gmail.com"),
+    "gmail_password": os.getenv("GMAIL_APP_PASSWORD", "******"),
+    "gmail_recipient": os.getenv("GMAIL_RECIPIENT", "c****1@gmail.com"),
 
     # Máximo de vagas por fonte
     "max_jobs_per_source": 20,
